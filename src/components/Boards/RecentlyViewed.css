@@ -1,0 +1,47 @@
+.viewed1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 1px;
+  grid-row-gap: 25px;
+  width: 13.5%;
+  padding: 0;
+  margin: 0 2% 2% 0;
+}
+.viewed2 {
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  display: block;
+  margin-right: 0;
+  height: 100px;
+  position: relative;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 187px;
+  margin-left: 18px;
+  margin-top: -4px;
+}
+.viewed3 {
+  display: flex;
+  margin-top: 24px;
+  margin-left: 10px;
+}
+.viewed4 {
+  margin-left: 10px;
+  color: #42526e;
+  height: 32px;
+  line-height: 32px;
+  width: 32px;
+  font-size: 24px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 15px;
+}
+.viewed5 {
+  color: #42526e;
+  font-weight: 700;
+  margin-top: 20px;
+  font-size: 16px;
+  margin-left: 8px;
+}

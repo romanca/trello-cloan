@@ -1,0 +1,17 @@
+.boards {
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+}
+.boardleftpane1 {
+  float: left;
+  margin-left: 125px;
+}
+.boards1 {
+  width: 1020px;
+  height: 725px;
+  overflow: auto;
+  float: right;
+  /* background-color: tomato; */
+  overflow-x: hidden;
+}

@@ -1,0 +1,118 @@
+.categoryItemClass1 {
+  border-radius: 3px;
+  flex-direction: column;
+  white-space: nowrap;
+  width: 258px;
+  margin-left: 8px;
+  padding-bottom: 3px;
+  margin-top: 2px;
+  height: fit-content;
+}
+
+.categoryItemClass3 {
+  display: flex;
+  flex-direction: column;
+  color: #5e6c84;
+  margin: 2px 0 8px 8px;
+  padding: 4px 8px;
+}
+.categoryItemClass2 {
+  flex: 0 0 auto;
+  padding: 10px 8px;
+  cursor: pointer;
+  font-weight: 700;
+  color: #172b4d;
+  margin-left: 8px;
+  margin-top: -4px;
+}
+.categoryItemClass4 {
+  color: #5e6c84;
+  margin-right: 4px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  width: 20px;
+  display: inline-block;
+  text-align: center;
+  font-weight: 450;
+  padding-left: 2px;
+}
+.categoryItemClass5 {
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+  width: 20px;
+  text-align: center;
+  color: #6b778c;
+  font-weight: 450;
+  margin-left: 2px;
+}
+.categoryItemClass6 {
+  box-shadow: 0 1px 0 rgba(9, 30, 66, 0.25);
+  width: 262px;
+  background: #fff;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: -10px;
+  height: 54px;
+}
+.categoryItemClass7 {
+  background-color: #ebecf0;
+  border-radius: 3px;
+  box-sizing: border-box;
+  flex-direction: column;
+  white-space: nowrap;
+  width: 258px;
+  margin-left: 8px;
+  padding-bottom: 3px;
+  display: inline-block;
+  height: 108px;
+  margin-top: 2px;
+  margin-left: 0;
+}
+.categoryItemClass8 {
+  background-color: #5aac44;
+  box-shadow: none;
+  border: none;
+  color: #fff;
+  float: left;
+  min-height: 32px;
+  height: 32px;
+  margin-top: 0;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  border-radius: 3px;
+  width: 85px;
+  outline: none;
+  cursor: pointer;
+}
+.categoryItemClass11 {
+  margin: 4px 0 0;
+  margin-left: 7px;
+  margin-top: 28px;
+  height: 300px;
+}
+.categoryItemClass12 {
+  color: #42526e;
+  height: 32px;
+  width: 22px;
+  text-align: center;
+  outline: none;
+  margin-left: -135px;
+  border: none;
+}
+.categoryItemClass13 {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: -4px;
+  line-height: 0;
+  cursor: pointer;
+}
